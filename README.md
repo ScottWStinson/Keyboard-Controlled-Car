@@ -14,6 +14,6 @@ To download adafruit GPIO, run: git clone https://github.com/adafruit/Adafruit_P
 
 Notes: Make sure you set python 3 as default
 
-Download repository, run: git clone https://github.com/stinsun/Keyboard-Controlled-Car.git
+Download repository, run: git clone https://github.com/ScottWStinson/Keyboard-Controlled-Car.git
 
 run: python/Documents/RoboGripper.py
